@@ -1,2 +1,2 @@
-# Mile-Finder2
+# Meal-Finder2
 Created with CodeSandbox
